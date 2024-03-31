@@ -1,5 +1,5 @@
 
-## Data Science and Business Analytics
+## Data Science and Applied Business Analytics
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/james-beall-20a4892/)
 
